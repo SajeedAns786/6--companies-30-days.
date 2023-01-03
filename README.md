@@ -7,3 +7,7 @@ A repository to keep track of my solved questions, Part of Arsh Goyal's 6 compan
 4) https://leetcode.com/problems/rotate-function/solutions/2986509/6-companies-30-days-q-4/
 5)
 6) https://leetcode.com/problems/perfect-rectangle/solutions/2993158/6-companies-30-days-q-6/
+7)
+8)
+9)
+10)https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2993399/6-companies-30-days-q-10/
