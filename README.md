@@ -10,4 +10,4 @@ A repository to keep track of my solved questions, Part of Arsh Goyal's 6 compan
 7)
 8)
 9)
-10)https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2993399/6-companies-30-days-q-10/
+10) https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2993399/6-companies-30-days-q-10/
