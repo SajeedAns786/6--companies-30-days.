@@ -20,3 +20,4 @@ Company Goldman Sachs
 
 1) https://leetcode.com/problems/max-points-on-a-line/solutions/3020855/6-companies-30-days-goldman-q1/
 2) https://leetcode.com/problems/valid-square/solutions/3020867/6-companies-30-days-goldman-q2/
+3) https://leetcode.com/problems/factorial-trailing-zeroes/solutions/3025189/6-companies-30-days-goldman-q3/ 
